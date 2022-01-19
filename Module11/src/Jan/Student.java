@@ -51,7 +51,7 @@ public class Student {
         /////////////////直接在github网站上编辑，然后update Project到IDEA本地去
         System.out.println("不要选择右上角的update Project,而是选择右键git pull，不是fetch");
         //******************
-        System.out.println("尝试另一种方法去push，直接右上角，不选add");
+        System.out.println("尝试另一种方法去push，直接右上角，不选add,失败了，必须先add，而且也不能选右上角push,而是右键");
     }
 
 }

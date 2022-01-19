@@ -61,6 +61,7 @@ public class Student {
         System.out.println("不过必须选add");
         System.out.println("也可以先单独，add,然后单独点右上角的commit，然后单独点右上角push,成功啦！");
         System.out.println("直接跳过add, 直接commit ,然后再push");
+        /////实践证明，确实可以跳过add，直接commit 然后再是push
     }
 
 }

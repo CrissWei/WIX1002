@@ -66,6 +66,8 @@ public class Student {
 
         //////////////////
         /////原来也可以直接一步到位，之前的push failed全都是因为网络错误，并不是操作问题
+
+        /////连上VPN更快打开github
     }
 
 }

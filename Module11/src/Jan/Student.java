@@ -73,6 +73,9 @@ public class Student {
         System.out.println("不知道什么原因啊,push failed，让我重新add");
 
         ///add就成功了，果然原来还是add不能少啊啊啊啊啊
+
+        ///这次没有add，直接commit and push一次性完成也成功了。这是为什么，
+        //我怀疑就是网络问题，延迟时间长了就自动push failed
     }
 
 }

@@ -36,5 +36,7 @@ public class Student {
 
         System.out.println("除非github服务器连接不上,会push failed");
         System.out.println("代码没有任何改变，重复push也会push failed");
+        ////////////////
+        System.out.println("没有add，直接commit不行啊");
     }
 }

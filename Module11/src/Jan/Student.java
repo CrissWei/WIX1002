@@ -19,5 +19,14 @@ public class Student {
     }
     public void method22(){
     System.out.println("这个代码是我在github手写的，测试能不能pull到IDEA本地去");
+
+    //////////////////////////////
+        System.out.println("下面的代码是在IDEA写的反馈feedback");
+    System.out.println("pull成功了，直接就是点击右上角的update Project");
+    /////////
+        System.out.println("不知道为什么push failed,原来又是github服务器打不开了");
+
+        System.out.println("push失败，多添加点内容重新add ,commit ,and push");
+
     }
 }

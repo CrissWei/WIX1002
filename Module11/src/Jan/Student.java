@@ -70,6 +70,7 @@ public class Student {
         /////连上VPN更快打开github
 
         //打开看了Event log ,commit 成功了，但是push是吧
+        System.out.println("不知道什么原因啊,push failed，让我重新add");
     }
 
 }

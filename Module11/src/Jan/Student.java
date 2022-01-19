@@ -46,6 +46,9 @@ public class Student {
         System.out.println("绝对保险的做法是：");
         System.out.println("1.右键add所在的.java文件，如Student.java");
         System.out.println("2.commit and push");
+        
+        
+        /////////////////直接在github网站上编辑，然后update Project到IDEA本地去
     }
 
 }

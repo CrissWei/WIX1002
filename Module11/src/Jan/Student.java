@@ -29,5 +29,6 @@ public class Student {
         System.out.println("push失败，多添加点内容重新add ,commit ,and push");
 
         System.out.println("push又失败了");
+        System.out.println("老是失败啊啊啊22");
     }
 }

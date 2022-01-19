@@ -71,6 +71,8 @@ public class Student {
 
         //打开看了Event log ,commit 成功了，但是push是吧
         System.out.println("不知道什么原因啊,push failed，让我重新add");
+
+        ///add就成功了，果然原来还是add不能少啊啊啊啊啊
     }
 
 }

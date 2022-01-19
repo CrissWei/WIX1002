@@ -56,6 +56,9 @@ public class Student {
         ///有他妈错误啊！！！！！！！！！
 
         ///网络前一秒可以，后一秒出错啊啊
+
+        //成功pushed,,证明确实是网络的问题啊
+        System.out.println("不过必须选add");
     }
 
 }

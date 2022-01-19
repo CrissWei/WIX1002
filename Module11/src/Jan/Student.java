@@ -32,5 +32,8 @@ public class Student {
         System.out.println("老是失败啊啊啊222222");
         ////////////
 
+        System.out.println("yes ,终于成功了，就是一步一步来。add,commit,push");
+
+        System.out.println("除非github服务器连接不上,会push failed");
     }
 }

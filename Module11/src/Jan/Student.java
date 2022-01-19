@@ -38,5 +38,14 @@ public class Student {
         System.out.println("代码没有任何改变，重复push也会push failed");
         ////////////////
         System.out.println("没有add，直接commit不行啊");
+
+        method33();
     }
+
+    private void method33() {
+        System.out.println("绝对保险的做法是：");
+        System.out.println("1.右键add所在的.java文件，如Student.java");
+        System.out.println("2.commit and push");
+    }
+
 }

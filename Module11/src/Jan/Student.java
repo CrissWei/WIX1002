@@ -49,6 +49,7 @@ public class Student {
         
         
         /////////////////直接在github网站上编辑，然后update Project到IDEA本地去
+        System.out.println("不要选择右上角的update Project,而是选择右键git pull，不是fetch");
     }
 
 }

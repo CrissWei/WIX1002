@@ -9,5 +9,7 @@ public class Person {
         ArrayList<Student> stu = new ArrayList<>();
         stu.add(student);
         System.out.println(stu.get(0));//Student{age=23, name='Criss'}
+
+        System.out.println("服务器错误打不开，重新上传，成功了！！");
     }
 }
